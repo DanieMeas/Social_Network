@@ -46,7 +46,7 @@ a:active, a:hover, a:focus {
 
 h1 {
     
-    color:#5C656C;
+    color: #5f7eaf;
     
     font-size:21px;
     
@@ -56,7 +56,7 @@ h1 {
 
 .btn-default {
     
-    background:#0991A9;
+    background:#5f7eaf;
     
     padding:11px 35px;
     
@@ -410,7 +410,7 @@ img.logo-small {
     
     height:45px;
     
-    background:#0991A9;
+    background:#5f7eaf;
     
 }
 
@@ -3619,7 +3619,7 @@ div.article-content a.show-sidebar {
     
 #footer.blue {
     
-    background:#0991A9;
+    background:#5f7eaf;
     
 }
 
