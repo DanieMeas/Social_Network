@@ -46,7 +46,7 @@ a:active, a:hover, a:focus {
 
 h1 {
     
-    color: #5f7eaf;
+    color: #5f7eaf !important;
     
     font-size:21px;
     
@@ -56,7 +56,7 @@ h1 {
 
 .btn-default {
     
-    background:#5f7eaf;
+    background: #5f7eaf;
     
     padding:11px 35px;
     
@@ -106,11 +106,11 @@ h1 {
 
 .btn-dotted:hover {
     
-    border:1px #0991A9 dotted;
+    border:1px #5f7eaf dotted;
     
     border-radius:0px;
     
-    color:#0991A9;
+    color:#5f7eaf;
     
 }
 
@@ -476,7 +476,7 @@ img.logo-small {
 
 #main-menu li.active span {
     
-    color:#0991A9;
+    color:#5f7eaf;
     
 }
 
@@ -506,9 +506,9 @@ img.logo-small {
 
 #sub-menu li.active, #sub-menu li:hover {
     
-    color:#0991A9;
+    color:#5f7eaf;
     
-    border-bottom:3px #0991A9 solid;
+    border-bottom:3px #5f7eaf solid;
     
 }
 
@@ -591,7 +591,7 @@ div.order span.pull-right {
 div.login a span.pull-right:hover,
 div.order a span.pull-right:hover {
     
-    color:#0991a9;
+    color:#5f7eaf;
     
 }
 
@@ -671,7 +671,7 @@ div.register {
     
     margin-right:77px;
     
-    background:#0991a9;
+    background:#5f7eaf;
     
     margin-bottom:72px;
     
@@ -1194,7 +1194,7 @@ ul.articles .article-desc {
 
 ul.articles .article-desc h2 {
     
-    color:#0991A9;
+    color:#5f7eaf;
     
     font-size:16px;
     
@@ -1234,7 +1234,7 @@ ul.articles.featured .article-desc p strong {
 
 ul.articles .article-desc p strong {
     
-    color:#0991A9;
+    color:#5f7eaf;
     
 }
 
@@ -1691,7 +1691,7 @@ div.article-sidebar .top-articles2 li {
 
 div.article-sidebar .top-articles2 li h2 {
  
-    color:#0991A9;
+    color:#5f7eaf;
     
     font-family:Museo-700, sans;
     
@@ -2133,7 +2133,7 @@ div.pricing > h1 {
 
 div.faq ul li strong {
     
-    color:#0991a9;
+    color:#5f7eaf;
     
     font-size:16px;
     
@@ -2244,7 +2244,7 @@ div.faq .actions {
 
 div.locations h2 {
     
-    color:#0991a9;
+    color:#5f7eaf;
     
     font-size:16px;
     
@@ -2270,7 +2270,7 @@ div.locations div.separator {
     
     width:50px;
     
-    background:#0991a9;
+    background:#5f7eaf;
     
     margin-top:35px;
     
@@ -2507,7 +2507,7 @@ div.pricing ul li ul li {
 
 div.pricing ul li ul li strong {
     
-    color:#0991a9;
+    color:#5f7eaf;
     
 }
 
@@ -2523,7 +2523,7 @@ div.pricing ul li h1 {
     
     font-size:18px;
     
-    color:#0991a9;
+    color:#5f7eaf;
     
     margin-top:50px;
     
@@ -2543,7 +2543,7 @@ div.pricing ul li h1.price {
     
     font-size:48px;
     
-    color:#0991a9;
+    color:#5f7eaf;
     
     float:left;
     
@@ -2766,9 +2766,9 @@ div.article-grid ul.filter li {
 div.article-grid ul.filter li.active,
 div.article-grid ul.filter li:hover {
     
-    color:#0991A9;
+    color:#5f7eaf;
     
-    border-bottom:3px #0991A9 solid;
+    border-bottom:3px #5f7eaf solid;
     
     cursor:pointer;
     
@@ -2798,13 +2798,13 @@ div.article-grid div.horizontal .text {
 
 div.article-grid div.horizontal h1 {
     
-    color:#0991A9;
+    color:#5f7eaf;
     
     font-family:Museo-500, sans;
     
     font-size:42px;
     
-    border-bottom:3px #0991A9 solid;
+    border-bottom:3px #5f7eaf solid;
     
     width:auto;
     
@@ -2983,7 +2983,7 @@ div.article-grid p {
 
 div.article-grid p strong {
     
-    color:#0991A9;
+    color:#5f7eaf;
     
 }
 
@@ -3031,7 +3031,7 @@ div.billing ul li:hover {
     
     cursor:pointer;
     
-    border-bottom:1px #0991a9 solid;
+    border-bottom:1px #5f7eaf solid;
     
 }
 
@@ -3053,7 +3053,7 @@ div.billing ul li.card {
 
 div.billing ul li h2 {
     
-    color:#0991A9;
+    color:#5f7eaf;
     
     font-size:16px;
     
@@ -3069,7 +3069,7 @@ div.billing ul li h1 {
     
     font-family:Museo-700, sans;
     
-    color:#0991A9;
+    color:#5f7eaf;
     
     margin-bottom:0px;
     
@@ -3172,7 +3172,7 @@ div.billing .agreement textarea {
 
 div.billing .agreement strong {
  
-    color:#0991a9;
+    color:#5f7eaf;
     
 }
 
@@ -3251,7 +3251,7 @@ div.payment-method .credit-info img {
 
 div.payment-method .credit-info h2 {
     
-    color:#0991a9;
+    color:#5f7eaf;
     
     font-size:16px;
     
@@ -3613,7 +3613,7 @@ div.article-content a.show-sidebar {
 #footer.grey3 ul li a.active, 
 #footer.grey3 .copyright strong {
 
-    color:#0991a9;
+    color:#5f7eaf;
     
 }
     
